@@ -1,5 +1,7 @@
 pool:
   name: LocalMachine
+  demands:
+  - agent.name -equals LAPTOP-9K62P10L
 trigger:
   - master
 steps:
