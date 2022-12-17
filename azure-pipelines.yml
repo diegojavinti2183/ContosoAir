@@ -1,5 +1,5 @@
 pool:
-  vmImage: LocalMachine
+  name: LocalMachine
 trigger:
   - master
 steps:
