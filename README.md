@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/druizv/ContosoAirTest/_apis/build/status/diegojavinti2183.ContosoAir?branchName=master)](https://dev.azure.com/druizv/ContosoAirTest/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
