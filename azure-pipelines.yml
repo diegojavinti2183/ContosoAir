@@ -1,7 +1,7 @@
 pool:
-  name: LocalMachine
+  name: Default
   demands:
-  - agent.name -equals LAPTOP-9K62P10L
+  - agent.name -equals Servidor2
 trigger:
   - master
 steps:
