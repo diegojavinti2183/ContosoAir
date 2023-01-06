@@ -1,5 +1,5 @@
 pool:
-  name: LocalMachine
+  name: Default
   demands:
   - agent.name -equals Servidor2
 trigger:
